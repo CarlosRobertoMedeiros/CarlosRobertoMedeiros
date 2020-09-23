@@ -10,3 +10,13 @@
 -   📫 How to reach me: [carlosmedeiroslima@gmail.com](mailto:carlosmedeiroslima@gmail.com);
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&theme=default)
+
+
+**Technologys:**
+- Backend 
+  - Java
+  - JavaEE(7)
+  - Spring
+- Front End
+  - Angular
+  - React
