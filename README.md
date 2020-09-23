@@ -9,4 +9,3 @@
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: [carlosmedeiroslima@gmail.com](mailto:carlosmedeiroslima@gmail.com);
 
- [![CarlosRobertoMedeiros github stats](https://camo.githubusercontent.com/55b97a145d9ee7e762e967a38baba9ed5c668308/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76696e6e79667338392673686f775f69636f6e733d7472756526686964655f626f726465723d74727565)](https://github.com/CarlosRobertoMedeiros) 
