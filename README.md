@@ -15,10 +15,10 @@
 
 
 **Technologys:**
-- Backend 
+- **Backend** 
   - Java
   - JavaEE(7)
   - Spring
-- Front End
+- **Front End**
   - Angular
   - React
