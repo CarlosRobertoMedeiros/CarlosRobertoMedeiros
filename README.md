@@ -9,7 +9,9 @@
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: [carlosmedeiroslima@gmail.com](mailto:carlosmedeiroslima@gmail.com);
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&theme=default)
+<a href="https://github.com/vinnyfs89">
+    <img width="50%" align="right" width="50%" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" />
+</a>
 
 
 **Technologys:**
