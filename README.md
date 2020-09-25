@@ -22,6 +22,7 @@ For almost ** 19 years ** working on software development for financial institut
   - Java
   - JavaEE(7)
   - Spring
+
 - **Front End**
   - Angular
   - React
