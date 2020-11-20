@@ -1,4 +1,4 @@
-## Hi, I'm Carlos Roberto,  a Full Stack Developer 🚀 from Brazil.
+## Hi, I'm Carlos Roberto, a Full Stack Developer 🚀 from Brazil. ##
 
 For almost ** 19 years ** working on software development for financial institutions in Brazil
 
