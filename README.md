@@ -20,7 +20,8 @@ For almost ** 19 years ** working on software development for financial institut
 **Technologys:**
 - **Backend** 
   - Java
-  - JavaEE(7)
+  - JavaEE(7) 
+  - JakartaEE(8)
   - Spring
 
 - **Front End**
