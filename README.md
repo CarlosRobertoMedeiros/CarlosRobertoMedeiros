@@ -25,5 +25,6 @@ For almost ** 19 years ** working on software development for financial institut
   - Spring
 
 - **Front End**
+  - ES6 / ES7
   - Angular
   - React
