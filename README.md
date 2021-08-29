@@ -22,6 +22,7 @@ For almost ** 19 years ** working on software development for financial institut
   - JavaEE(7) 
   - JakartaEE(8)
   - Spring
+  - Quarkus
 
 - **Front End**
   - ES6 / ES7
