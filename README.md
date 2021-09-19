@@ -24,7 +24,13 @@ For almost ** 19 years ** working on software development for financial institut
   - Spring
   - Quarkus
 
+- **Message Driven Beans** 
+  - Kafka
+  - ActiveMQ
+  - Artemis Broker
+
 - **Front End**
   - ES6 / ES7
+  - Angular Js
   - Angular
   - React
