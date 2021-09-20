@@ -24,9 +24,9 @@ For almost ** 19 years ** working on software development for financial institut
   - Spring
   - Quarkus
 
-- **Message Driven Beans** 
+- **Message Driven Beans (Brokers)** 
   - Kafka
-  - ActiveMQ
+  - IBM - ActiveMQ
   - Artemis Broker
 
 - **Front End**
