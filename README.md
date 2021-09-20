@@ -6,7 +6,7 @@ For almost ** 19 years ** working on software development for financial institut
 
 **Personal Infos:**
 
--   💼 I’m currently working on [Tivit ](https://tivit.com/);
+-   💼 I’m currently working on [Spread ](https://spread.com.br/);
 -   🔧 I love learn new habilities with software technologies;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: [carlosmedeiroslima@gmail.com](mailto:carlosmedeiroslima@gmail.com);
