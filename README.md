@@ -16,7 +16,7 @@ For almost ** 19 years ** working on software development for financial institut
 </a>
 
 
-**Technologys:**
+**Technologies:**
 - **Backend** 
   - Java
   - JavaEE(7) 
