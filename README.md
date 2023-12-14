@@ -17,6 +17,9 @@ For almost ** 19 years ** working on software development for financial institut
 
 
 **Technologies:**
+- **Cloud Provider** 
+  - AWS
+
 - **Backend** 
   - Java
   - JavaEE(7) 
