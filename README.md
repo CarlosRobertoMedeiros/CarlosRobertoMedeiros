@@ -26,6 +26,7 @@ For almost ** 19 years ** working on software development for financial institut
   - JakartaEE(8)
   - Spring
   - Quarkus
+  - Kotlin (Learning) 
 
 - **Event-Driven Architecture** 
   - Kafka
