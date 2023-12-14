@@ -29,6 +29,7 @@ For almost ** 19 years ** working on software development for financial institut
 
 - **Event-Driven Architecture** 
   - Kafka
+  - Sqs / Sns
   - IBM - ActiveMQ
   - Artemis Broker
 
