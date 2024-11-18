@@ -1,6 +1,6 @@
 ##  Hi, I'm Carlos Roberto, a Full Stack Developer 🚀 from Brazil.  ##
 
-For almost ** 19 years ** working on software development for financial institutions in Brazil
+For almost ** 20 years ** working on software development
 
 <div>
    <a href = "mailto:carlosmedeiroslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,12 +12,10 @@ For almost ** 19 years ** working on software development for financial institut
 -   💼 I’m currently working on [NTT DATA Europe & Latam](https://www.nttdata.com/global/en/);
 -   🔧 I love learn new habilities with software technologies;
 -   💬 Ask me about anything, I am happy to help;
--   📫 How to reach me: [carlosmedeiroslima@gmail.com](mailto:carlosmedeiroslima@gmail.com);
 
 <a href="https://github.com/vinnyfs89">
     <img width="50%" align="right" width="50%" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" />
 </a>
-
 
 **Technologies:**
 - **Cloud Provider** 
