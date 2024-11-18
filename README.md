@@ -2,7 +2,10 @@
 
 For almost ** 19 years ** working on software development for financial institutions in Brazil
 
-[![Gmail](https://camo.githubusercontent.com/e10f1bf75301fdc95d63d7251e4373b819406497/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:carlosmedeiroslima@gmail.com) [![Linkedin](https://camo.githubusercontent.com/dd86c49da13083be104023b52ee6e54e550d0dd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/carlosmedeiroslima)
+<div>
+   <a href = "mailto:carlosmedeiroslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosmedeiroslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 **Personal Infos:**
 
