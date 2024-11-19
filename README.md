@@ -51,30 +51,30 @@ For more than **20 years** working on software development
   </thead>
   <tbody>
     <tr style="background-color: #1a1a1a;">
-      <td style="padding: 10px; border: 1px solid #666666;">AWS</td>
+      <td style="padding: 10px; border: 1px solid #666666;">⭐AWS</td>
       <td style="padding: 10px; border: 1px solid #666666;">
         Togaf<br>
         Camunda (Low Code)<br>
         Design Patterns<br>
         Design Patterns Microservice<br> 
-        Clean Code<br>
-        SOLID<br>
-        MultiThread<br>
-        Observability<br>
+        ⭐ Clean Code<br>
+        ⭐ SOLID<br>
+        ⭐MultiThread<br>
+        ⭐Observability<br>
       </td>
       <td style="padding: 10px; border: 1px solid #666666;">
-        Java<br>
+        ⭐Java<br>
         JavaEE (7)<br> 
         JakartaEE (8)<br>
-        Spring<br>
+        ⭐Spring<br>
         Spring Boot<br>
         Spring Cloud<br>
         Quarkus<br>
-        Kotlin<br>
+        ⭐Kotlin<br>
       </td>
       <td style="padding: 10px; border: 1px solid #666666;">
-        Kafka<br>
-        SQS / SNS<br>
+        ⭐Kafka<br>
+        ⭐SQS / SNS<br>
         IBM - ActiveMQ<br>
         Artemis Broker<br>
       </td>
@@ -88,3 +88,4 @@ For more than **20 years** working on software development
 </table>
 
 ---
+⭐ Currently used
