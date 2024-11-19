@@ -70,8 +70,7 @@ For more than **20 years** working on software development
 
 ⭐ Currently used
 
----
-### 📊 GitHub Performance
+## 📊 GitHub Performance ##
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Carlos Roberto GitHub Stats" style="border-radius: 8px; width: 48%;" />
