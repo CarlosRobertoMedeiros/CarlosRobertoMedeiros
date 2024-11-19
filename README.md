@@ -1,4 +1,4 @@
-##  Hi, I'm Carlos Roberto, a TechLead and Backend Developer 🧑‍💻 ##
+##  Hi, I'm a TechLead and Backend Developer 🧑‍💻 ##
 
 
 For more than **20 years** working on software development
@@ -35,17 +35,17 @@ For more than **20 years** working on software development
         Design Patterns<br>
         Design Patterns Microservice<br> 
         ⭐ Clean Code<br>
-        ⭐ SOLID<br>
+        ⭐ Solid<br>
         ⭐MultiThread<br>
         ⭐Observability<br>
       </td>
       <td style="padding: 10px; border: 1px solid #666666;">
-        ⭐Java<br>
+        Java 8, 11,17<br>
         JavaEE (7)<br> 
         JakartaEE (8)<br>
-        ⭐Spring<br>
-        Spring Boot<br>
-        Spring Cloud<br>
+        ⭐ Spring<br>
+        ⭐ Spring Boot<br>
+        ⭐ Spring Cloud<br>
         Quarkus<br>
         ⭐Kotlin<br>
         ⭐Kotlin CoRoutines<br>
