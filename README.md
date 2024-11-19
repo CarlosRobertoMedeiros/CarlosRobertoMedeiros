@@ -32,8 +32,8 @@ For more than **20 years** working on software development
       <td style="padding: 10px; border: 1px solid #666666;">
         Togaf<br>
         Camunda (Low Code)<br>
-        Design Patterns<br>
-        Design Patterns Microservice<br> 
+        ⭐ Design Patterns<br>
+        ⭐ Design Patterns Microservice<br> 
         ⭐ Clean Code<br>
         ⭐ Solid<br>
         ⭐MultiThread<br>
