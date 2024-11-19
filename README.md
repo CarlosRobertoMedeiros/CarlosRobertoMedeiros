@@ -1,28 +1,45 @@
-##  Hi, I'm Carlos Roberto, a Full Stack Developer 🚀 from Brazil.  ##
+##  Hi, I'm Carlos Roberto, a TechLead and Backend Developer 👨‍💻 ##
 
 For more than **20 years** working on software development
 
-<div>
-   <a href = "mailto:carlosmedeiroslima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosmedeiroslima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="text-align: left; margin-top: 20px;">
+   <a href="https://www.linkedin.com/in/carlosmedeiroslima" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   </a>
+   <a href="mailto:carlosmedeiroslima@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+   </a>
 </div>
+
+---
 
 **Personal Infos:**
 
 -   💼 I’m currently working on [NTT DATA Europe & Latam](https://www.nttdata.com/global/en/);
--   🔧 I love learn new habilities with software technologies;
+-   🔧 I love learning new skills with software technologies;
 -   💬 Ask me about anything, I am happy to help;
 
-<div>
-  <a href="https://github.com/vinnyfs89">
-      <img width="48.5%" align="left" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" />
-  </a>
+---
 
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact)
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
 
-  <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: left; background-color: black; color: white;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+      <a href="https://github.com/CarlosRobertoMedeiros">
+        <img alt="Carlos Roberto Medeiros' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" style="width: 100%; max-width: 500px;"/>
+      </a>
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact&hide_border=true" style="width: 100%; max-width: 500px;"/>
+  </div>
+</div>
+
+---
+
+<!-- Cloud Structure Table -->
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: left; background-color: black; color: white; margin-top: 20px;">
   <thead style="background-color: #333333;">
     <tr>
       <th style="padding: 10px; border: 1px solid #666666;">Cloud Provider</th>
@@ -50,6 +67,8 @@ For more than **20 years** working on software development
         JavaEE (7)<br> 
         JakartaEE (8)<br>
         Spring<br>
+        Spring Boot<br>
+        Spring Cloud<br>
         Quarkus<br>
         Kotlin<br>
       </td>
@@ -68,5 +87,4 @@ For more than **20 years** working on software development
   </tbody>
 </table>
 
-
-</div>
+---
