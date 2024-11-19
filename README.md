@@ -21,23 +21,6 @@ For more than **20 years** working on software development
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-
-  <!-- GitHub Stats -->
-  <div style="flex: 1; min-width: 300px; padding: 10px;">
-      <a href="https://github.com/CarlosRobertoMedeiros">
-        <img alt="Carlos Roberto Medeiros' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" style="width: 100%; max-width: 500px;"/>
-      </a>
-  </div>
-
-  <!-- Most Used Languages -->
-  <div style="flex: 1; min-width: 300px; padding: 10px;">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact&hide_border=true" style="width: 100%; max-width: 500px;"/>
-  </div>
-</div>
-
----
-
 <!-- Cloud Structure Table -->
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: left; background-color: black; color: white; margin-top: 20px;">
   <thead style="background-color: #333333;">
@@ -86,6 +69,21 @@ For more than **20 years** working on software development
     </tr>
   </tbody>
 </table>
+⭐ Currently used
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+      <a href="https://github.com/CarlosRobertoMedeiros">
+        <img alt="Carlos Roberto Medeiros' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" style="width: 100%; max-width: 500px;"/>
+      </a>
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact&hide_border=true" style="width: 100%; max-width: 500px;"/>
+  </div>
+</div>
 
 ---
-⭐ Currently used
