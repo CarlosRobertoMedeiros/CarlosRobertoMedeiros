@@ -14,8 +14,31 @@ For almost ** 20 years ** working on software development
 -   💬 Ask me about anything, I am happy to help;
 
 <a href="https://github.com/vinnyfs89">
-    <img width="50%" align="right" width="50%" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" />
+    <img width="48%" align="right" width="50%" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&hide_border=true" />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact)
+
+<table>
+  <thead>
+    <th>**Cloud Provider** </th>
+    <th>- **Backend** </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS</td>
+      <td>
+        Java<br>
+        JavaEE(7)<br> 
+        JakartaEE(8)<br>
+        Spring<br>
+        Quarkus<br>
+        Kotlin (Learning)<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Technologies:**
 - **Cloud Provider** 
