@@ -58,8 +58,8 @@ For more than **20 years** working on software development
         Artemis Broker<br>
       </td>
       <td style="padding: 10px; border: 1px solid #666666;">
-        Javascript<br>
-        AngularJS<br>
+        JavaScript<br>
+        AngularJs<br>
         Angular 2<br>
       </td>
     </tr>
