@@ -13,7 +13,7 @@ For more than **20 years** working on software development
 
 ---
 
-**Personal Infos:**
+## 👨‍💼 Personal Info
 
 -   💼 I’m currently working on [NTT DATA Europe & Latam](https://www.nttdata.com/global/en/);
 -   🔧 I love learning new skills with software technologies;
@@ -77,6 +77,10 @@ For more than **20 years** working on software development
 
 ---
 
-![Carlos Roberto GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact&theme=radical)
+## 📊 GitHub Performance
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRobertoMedeiros&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Carlos Roberto GitHub Stats" style="border-radius: 8px; width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRobertoMedeiros&layout=compact&theme=dark&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top Languages" style="border-radius: 8px; width: 48%;" />
+</div>
 
