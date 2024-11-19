@@ -49,6 +49,7 @@ For more than **20 years** working on software development
         Spring Cloud<br>
         Quarkus<br>
         ⭐Kotlin<br>
+        ⭐Kotlin CoRoutines<br>
       </td>
       <td style="padding: 10px; border: 1px solid #666666;">
         ⭐Kafka<br>
