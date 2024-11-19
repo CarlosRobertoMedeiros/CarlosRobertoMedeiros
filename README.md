@@ -1,6 +1,11 @@
-##  Hi, I'm Carlos Roberto, a TechLead and Backend Developer 👨‍💻 ##
+##  Hi, I'm Carlos Roberto, a TechLead and Backend Developer 🧑‍💻 ##
 
+
+## 👨‍💼 Personal Info
 For more than **20 years** working on software development
+-   🔧 I love learning new skills with software technologies
+-   👨‍🏫 I love teach 
+-   💬 Ask me about anything, I am happy to help
 
 <div style="text-align: left; margin-top: 20px;">
    <a href="https://www.linkedin.com/in/carlosmedeiroslima" target="_blank">
@@ -10,16 +15,6 @@ For more than **20 years** working on software development
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
    </a>
 </div>
-
----
-
-## 👨‍💼 Personal Info
-
--   💼 I’m currently working on [NTT DATA Europe & Latam](https://www.nttdata.com/global/en/);
--   🔧 I love learning new skills with software technologies;
--   💬 Ask me about anything, I am happy to help;
-
----
 
 <!-- Cloud Structure Table -->
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: left; background-color: black; color: white; margin-top: 20px;">
@@ -74,8 +69,6 @@ For more than **20 years** working on software development
 </table>
 
 ⭐ Currently used
-
----
 
 ## 📊 GitHub Performance
 
