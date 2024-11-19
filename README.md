@@ -70,6 +70,7 @@ For more than **20 years** working on software development
 
 ⭐ Currently used
 
+---
 ### 📊 GitHub Performance
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
